@@ -1,4 +1,6 @@
 # SAWAARI
+![Sawaari](https://github.com/user-attachments/assets/0de1fd61-5a7f-40ea-b270-70e59a3aaa70)
+
 ## Introduction
 Sawaari is an innovative web application designed specifically for colleges to streamline their transport management. The platform allows users to view bus seat availability detected by cameras installed on the buses. Utilizing a machine learning model, Sawaari accurately identifies seat occupancy while tracking the location via mobile GPS, eliminating the need for additional hardware.
 
